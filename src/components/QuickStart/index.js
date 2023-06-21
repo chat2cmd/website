@@ -35,7 +35,7 @@ export default function Example() {
                                 Chat2CMD
                             </h1>
                             <p className="mt-6 text-lg leading-8 text-gray-600">
-                                基于命令行终端，提供Ai辅助工具，帮助开发者&运维人员解锁不同的命令参数，彻底告别死记硬背，并且留在终端.
+                                一款在命令行终端与ChatGPT大模型对话的工具包<br />告别搜索引擎地毯式搜索，精准获取命令行工具的参数释义。
                             </p>
                             <div className="mt-10 flex items-center justify-center gap-x-6">
                                 <a
