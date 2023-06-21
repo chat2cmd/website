@@ -1,3 +1,14 @@
+/* src/css/custom.css */
+
+.tailwind {
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+  @tailwind screens;
+}
+
+/* 在此添加您的自定义样式 */
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to

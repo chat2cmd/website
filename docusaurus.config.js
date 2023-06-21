@@ -31,7 +31,9 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  plugins: [
+    "./postcss-tailwind-loader"
+  ],
   presets: [
     [
       'classic',

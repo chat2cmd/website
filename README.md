@@ -39,3 +39,8 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+
+在docusaurus中结合tailwind进行使用
+
+https://farer.org/2021/10/08/docusaurus-with-tailwindcss/
